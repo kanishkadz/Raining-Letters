@@ -17,8 +17,7 @@ This project is a **dynamic raining letters effect** built using **TypeScript, N
 
 - **Framework:** Next.js  
 - **Language:** TypeScript  
-- **Styling:** Tailwind CSS  
-- **Animation:** Canvas API / CSS animations (depending on implementation)  
+- **Styling:** Tailwind CSS 
 
 ---
 
