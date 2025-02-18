@@ -99,7 +99,7 @@ const ScrambledTitle: React.FC = () => {
   useEffect(() => {
     if (mounted && scramblerRef.current) {
       const phrases = [
-        'Zuhair,',
+        'Kanishka,',
         'It\'s RAINING',
         'with\' letters',
         'and alphabets',
@@ -202,7 +202,6 @@ const RainingLetters: React.FC = () => {
         <ScrambledTitle />
       </div>
 
-      {/* Raining Characters */}
       {characters.map((char, index) => (
         <span
           key={index}
